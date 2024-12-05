@@ -5,8 +5,8 @@ App developed as part of The App Brewery's Complete App Development Bootcamp.
 This project is a Bitcoin currency exchange app that displays the current rate of exchange for a selected global currency. This app utilizes multiple key concepts in swift to implement.
 
 # Key Concepts
-- Utilizing URLSession to make HTTP requests
-- Utilizing JSONDecoder to parse JSON objects
+- URLSession to make HTTP requests
+- JSONDecoder to parse JSON objects
 - UIPickerView
 - Delegate design pattern
 - The ViewController lifecycle.
